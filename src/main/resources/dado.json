@@ -1,0 +1,8 @@
+[
+	{conta: {nomeCliente: "Antonio Coutinho", limite: 200}},
+	{transação: {valor: 100, estabelecimento: "Outback", tipo: "Internacional", data: 2021-01-16T19:00:00.000Z}},
+	{transação: {valor: 150, estabelecimento: "Starbucks", tipo: "Nacional", data: 2021-01-16T20:00:00.000Z}}
+]
+
+
+
